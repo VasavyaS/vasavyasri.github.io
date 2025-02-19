@@ -42,7 +42,7 @@
       "website": "https://www.oxmaint.com/",
       "startDate": "2024-07-15",
       "endDate": "2024-09-15",
-       "summary": ""
+       "summary": "",
       "highlights": [
         "Secured backend APIs using OAuth 2.0, implementing authentication and authorization mechanisms to ensure robust
 protection of sensitive user data, reducing potential security vulnerabilities by 50%.",
