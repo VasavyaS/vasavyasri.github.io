@@ -1,73 +1,91 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Vasavya Sri",
+    "label": "Software Engineer",
+    "picture": "https://github.com/VasavyaS.png",
+    "email": "vasavyasritm@gmail.com",
+    "phone": "669-649-9096",
+    "website": "https://github.com/VasavyaS",
+    "summary": "I am a Software Engineer with over five years in full-stack development, backend infrastructure, and cloud technologies. I have expertise in C#, ASP.NET, React, and Microsoft Azure, with a strong focus on designing scalable systems and optimizing performance. I’ve led teams to improve deployment efficiency and ensure high application reliability. I hold a Master’s degree in Computer Science from Santa Clara University.",
+    "location": { "address": "", "postalCode": "95051", "city": "Santa Clara", "countryCode": "USA", "region": "California" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "VasavyaS", "url": "https://github.com/VasavyaS" },
+      { "network": "linkedin", "username": "Vasavya Sri T M", "url": "https://www.linkedin.com/in/vasavya-sri/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Backend Development" },
+    { "name": "Cloud Technologies" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "Python", "SQL", "HTML/CSS","React", "ASP .NET Core", "ASP .NET MVC", "Entity Framework", "ASP. NET Web API" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets",
+      "keywords": [ "Git", "Docker", "Microsoft Azure", "Red Hat Openshift", "Team Foundation Serve", "Jenkins", "Visual Studio" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "Santa Clara University, Santa Clara, CA",
+      "area": "Computer Science (December 2024)",
+      "studyType": "M.S."
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Oxmaint Inc.",
+      "position": "Software Engineer",
+      "website": "https://www.oxmaint.com/",
+      "startDate": "2024-07-15",
+      "endDate": "2024-09-15",
+       "summary": ""
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Secured backend APIs using OAuth 2.0, implementing authentication and authorization mechanisms to ensure robust
+protection of sensitive user data, reducing potential security vulnerabilities by 50%.",
+ "Leveraged Azure services (App Services, Functions) to enhance backend functionality, automating key processes and
+ensuring seamless scalability for cloud-based applications.",
+"Integrated Microsoft Power Automate to streamline data flow and automate repetitive tasks, reducing operational
+overhead by 20%."      
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "IBM",
+      "position": "Senior Software Engineer",
+      "website": "https://www.ibm.com/us-en",
+      "startDate": "2019-11-21",
+      "endDate": "2022-12-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Designed and enhanced backend infrastructure using C#, ASP.NET (MVC 5.0/Core 3.0), and Web API to create RESTful
+services. Improved backend to enable parallel test execution, reducing deployment time and increasing offer rollout
+frequency by 300%, from monthly to weekly.",
+"Led a team of 4 engineers to develop and integrate API solutions, reducing integration time by 25% and
+improving efficiency by 30%, supporting seamless operations for over 11 million daily users.",
+"Implemented CI/CD pipelines with Jenkins, reducing deployment time by 40% and increasing release frequency by
+30%, while ensuring 99.9% uptime."
+      ]
+    },
+{
+      "company": "Infosys",
+      "position": "Senior Software Engineer",
+      "website": "https://www.infosys.com/",
+      "startDate": "2017-07-17",
+      "endDate": "2019-11-19",
+      "summary": "",
+      "highlights": [
+        "Predominantly focused on automating on-demand module scheduling and report distribution via email using Talend Open
+Studio and Autosys, leading to an impressive 95% reduction in manual efforts",
+"Developed a robust CI/CD pipeline using Jenkins, enabling seamless image deployment to Red Hat OpenShift. This
+integration ensured scalability and agility, reducing deployment time by 30%.",
+"Collaborated in the successful migration of over 100+ data transfer and load (ETL) modules for CITIBank, transitioning
+them from traditional SQL to Talend jobs."
       ]
     }
+
   ],
   "volunteer": [
     {
